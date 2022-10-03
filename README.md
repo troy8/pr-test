@@ -1,2 +1,2 @@
 # pr-test
-Test the PR test flow
+Test the pull request test flow
